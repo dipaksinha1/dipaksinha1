@@ -1,7 +1,6 @@
 <h2> Hello World! I'm Dipak Sinha 👋</h2>
 I am a Full Stack Developer mainly working with javascript.
 
-- 👀 I’m interested in Full Stack Development
 - 👯 I’m looking to collaborate on Full Stack Web Projects
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me **[sinhadipak33@gmail.com](mailto:sinhadipak33@gmail.com)**

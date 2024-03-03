@@ -15,4 +15,5 @@ I am a Full Stack Developer mainly working with javascript.
 <p align="left">
 <a href="https://www.linkedin.com/in/dipak-kumar-sinha-506200182/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dipak-kumar-sinha-506200182/" height="30" width="40" /></a>
 <a href="https://www.instagram.com/dipak_null/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/dipak_null/" height="30" width="40" /></a>
+<a href="https://twitter.com/dipaknull9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dipaknull9" height="30" width="40" /></a>
 </p>
